@@ -1,0 +1,75 @@
+/*styles.css*/
+<style>
+			html{
+				font-family: 'Muli', sans-serif;
+			}
+			head{
+				background-color: #fffcfd;
+
+			}
+
+			h1 {
+				font-family: 'Muli', sans-serif;
+				color: #a83b54;
+				/*background-color: #fffcfd;*/
+				margin-bottom: -10pt;
+				text-decoration: underline;
+			}
+			h2{
+				font-family: 'Roboto', sans-serif;
+				color: #a83b54;
+				font-size: 12pt;
+
+			}
+			h3{
+				font-family: 'Muli', sans-serif;
+				font-style: bold;
+				font-size: 12pt;
+				margin-top: -0.9em;
+				margin-bottom: -0.1em
+			}
+			body{
+				font-family: 'Muli', sans-serif;
+				background-color: #fffcfd;
+				font-family: sans-serif;
+				padding: 4em;
+				
+			}
+			span{
+				color:  #71cae3;
+			}
+			.column {
+				float: left;
+				width: 30%;
+				padding: 1em;
+				
+
+			}
+			.row:after{
+				content: "";
+				display: table;
+				clear: boths;
+
+			}
+			em{
+				font-family: 'Roboto', sans-serif;
+				font-size: 10pt;
+				color: #a83b54;
+				font-weight: bold;
+				text-transform: uppercase;
+				
+			}
+			#footer {
+				font-size: 10pt;
+				  position: fixed;
+				  bottom: 0;
+				  width: 100%;
+				  height: 2.5rem;            
+				}
+			i{
+				letter-spacing: 5em;
+			
+			}
+
+
+		</style>
