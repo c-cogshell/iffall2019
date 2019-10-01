@@ -1,0 +1,91 @@
+
+body{
+	margin: 0 0;
+	font-family: 'Archivo Narrow', sans-serif;
+}
+
+h1{color: pink;
+	font-size: 80px;
+	text-align: center;
+	margin-top: 0 0 20px 0;
+	margin-bottom: 0px;
+}
+
+
+h2{
+	margin-top: 2pt;
+	font-size: 21pt;
+	letter-spacing: 0.8px
+}
+h3{
+	text-align: center;
+	font-size: 30pt;
+	margin-bottom: 30px;
+	letter-spacing: 0.5px;
+	margin-top: 0px
+	/*padding-top: 20px;*/
+}
+
+section.pt2{
+	/*background-color: pink;*/
+	/*height: 662px;*/
+	margin: auto;
+	padding:;
+
+}
+
+ div.content{
+ 	width: 960px;
+ 	margin: 0 auto;
+ }
+header{
+	
+	text-align: center;
+	padding: 95px 0 160px 0;
+	display: block;
+	background-image: url("../images/ai2.jpg"); 
+	background-size: cover;
+	
+
+}
+
+div.pt2{
+	margin: auto;
+	font-size: 13pt;
+	padding: 37px 0 0 0 ;
+
+}
+
+p.pt2{
+	margin: 0 0 0 20px;
+}
+
+div.pt3{
+	font-size: 13pt;
+	background-color: blue;
+	margin: 10px 0 0 0;
+	padding: 20px 0 0 0;
+
+}
+div.photo{
+	background-color: yellow;
+	margin: 10px 609px 10px 183px;
+}
+
+img.bg{
+	width: 100%;
+	position: relative;
+}
+
+img.pt2 {
+	height: auto;
+	float:right;
+	margin-right: 10px;
+	padding: 1em 2em;
+}
+
+img.grid{
+	float:left;
+	height: auto;
+
+}
