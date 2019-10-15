@@ -1,0 +1,255 @@
+a#npr{
+	background-color: #2C63ae;
+	padding:7px 45px 10px;
+	border-radius: 4pt;
+	display: inline-block;
+	font-family: helvetica, sans serif;
+	text-decoration: none;
+	text-transform: uppercase;
+	color: white;
+	font-weight: bold;
+	letter-spacing: .1em;
+
+
+
+}
+a#npr:hover{
+	background-color: #87a0d3;
+	letter-spacing: .1em;
+	color: white;
+	transition: background-color .1s,
+}
+a#npr:vistied{
+	 color: white;
+}
+
+a#instagram{
+	background-color: green;
+	
+}
+.fa_fa-instagram{
+	transform: scale(5);
+}
+
+a#newyorker{
+	background-color: #f4f4f4;
+	font-family: adobe-caslon-pro, serif;
+	font-size: 20pt;
+	color: #121212;
+	padding:7px 45px 7px;
+	border-radius: 0 3px 3px 0;
+	text-decoration: none;
+}
+a#newyorker:hover{
+	background-color: #e4e4e4;
+
+}
+a#pottermore{
+	background-color:#6b63b5;
+	padding: 10px 28px 15px 28px;
+	border-radius: 30px;
+	font-size: 18pt;
+	font-family: sofia-pro-soft, sans-serif;
+	text-decoration: none;
+	color:white;
+	box-shadow: inset 0 0 0 1px;
+
+
+}
+a#pottermore:hover{
+	background-color: #514a92;
+	transition: background-color .4s ease-in-out;
+
+}
+
+a#fitbit{
+	background-color: #002a3a;
+	margin: 10px 0px;
+	color: white;
+	padding:8px 38px;;
+	border-radius:25px; 
+	font-family:proxima-nova, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 14pt;
+	text-decoration:none;
+	border: 3px solid #002a3a;
+	letter-spacing: .6008px;
+
+}
+a#fitbit:hover{
+	background: none;
+	color: #002a3a;
+	border-color: #002a3a;
+	transition: all .1s;
+}
+a#garden{
+	background-color: white;
+	color: #416910;
+	font-size: 13pt;
+	padding:8px 18px;
+	text-decoration: none;
+	font-family: 'PT Serif', serif;
+	border: 3px solid  #9eb355;;
+	border-radius: 4px 4px 0 0;
+}
+a#garden:hover{
+	background-color: #9eb355;
+	color: white;
+	transform: scale(0.9);
+}
+
+a#nike{
+	background-color: #111;
+	border-radius:20px;
+	padding:8px 28px;
+	font-family: "Helvetica Neue" sans-serif;
+	font-size: 16pt;
+	text-decoration: none;
+	color: #fff;
+}
+a#nike:hover{
+	background-color:rgba(0,0,0,.75); 
+
+}
+a#tonight{
+	/*background-color: #223e73;*/
+	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#132f60+0,0b203d+100 */
+background: #132f60; /* Old browsers */
+background: -moz-linear-gradient(top,  #132f60 0%, #0b203d 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #132f60 0%,#0b203d 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #132f60 0%,#0b203d 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#132f60', endColorstr='#0b203d',GradientType=0 ); /* IE6-9 */
+
+	color:white;
+	padding:18px 18px;
+	border-radius:66px;
+	font-family:"SourceSansProSemiBold" sans-serif;
+	font-weight: bold;
+	font-size:14pt;
+	text-decoration: none;
+	line-height: 1px;
+	display: inline-block;
+	box-shadow:  2px 3px 3px rgba(0,0,0,0.2);
+}
+a#tonight:hover{
+	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#0f234f+0,08182d+100 */
+background: #0f234f; /* Old browsers */
+background: -moz-linear-gradient(top,  #0f234f 0%, #08182d 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #0f234f 0%,#08182d 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #0f234f 0%,#08182d 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0f234f', endColorstr='#08182d',GradientType=0 ); /* IE6-9 */
+
+	box-shadow: 5px 5px 5px rgba(0,0,0,0.1);
+	transition: all .3s;
+
+}
+
+a#cartoon{
+	background-color: #000;
+	color: white;
+	padding:8px 28px;
+	border-radius: 45px;
+	font-family: arial;
+	font-weight: bold;
+	font-size:14pt;
+	text-decoration: none;
+}
+
+a#cartoon:hover{
+	/*transform: scale(1.2); how to get the scale shifts to work*/
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f25491+48,d34a7a+77,b5416d+97,772b49+100 */
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#02aeef+36,0185ba+76,0277d1+100 */
+background: #02aeef; /* Old browsers */
+background: -moz-linear-gradient(top,  #02aeef 36%, #0185ba 76%, #0277d1 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #02aeef 36%,#0185ba 76%,#0277d1 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #02aeef 36%,#0185ba 76%,#0277d1 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#02aeef', endColorstr='#0277d1',GradientType=0 ); /* IE6-9 */
+
+	/*color:black;*/
+	transition: all .2s;
+}
+
+a#samsung{
+	color: #b5b5b5;
+	font-family: arial;
+	font-weight: bold;
+	font-size:20pt;
+	text-decoration: none;
+}
+a#samsung:hover{
+	text-decoration: underline;
+	color: black;
+	transition: all .2s;
+}
+
+	a#lyft{
+	background: none;
+	padding:8px 38px;
+	border-radius:25px; 
+	border: 3px solid #1850a5;
+	color: #1850a5;
+	border-color: #1850a5;
+	transition: all .1s;
+	text-decoration: none;
+	font-size: 20pt;
+	font-weight: bold;
+	}
+
+	a#lyft:hover{
+	background: #1850a5;
+	color: white;
+	border-color: #1850a5;
+	transition: all .1s;
+	}
+	a#ideo{
+		border: 2px solid #231F20;
+    color: #231F20;
+    font-family: LineToCircular-Medium,"Helvtica Neue Medium","Helvetica Medium",sans-serif;
+    text-transform: uppercase;
+    font-size: 14px;
+    letter-spacing: .24rem;
+    padding: 1.2rem 1.6rem;
+    display: inline-block;
+    text-decoration: none;
+    font-weight: bold;}
+   
+   a#ideo:hover{
+	background: black;
+	color: white;
+	transition: all .1s;
+	}
+
+	a#nerf{
+	display: inline-block;
+    width: 100%;
+    padding: 15px 0;
+    color: #18295b;
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: none;
+	}
+
+	a#nerf:hover{
+	
+    color: #ff5400;
+    font-size: 30px;
+    font-weight: bold;
+	}
+	a#coke{
+		font-family: 'Gotham SSm A', 'Gotham SSm B', Helvetica, sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    color: #e61d2b;
+    text-decoration: none;
+    font-size: 20pt;	
+}
+a#coke:hover{
+	font-family: 'Gotham SSm A', 'Gotham SSm B', Helvetica, sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    color: black;
+    text-decoration: none;
+    font-size: 20pt;
+    background-color: #dbdbdb;
+    padding: 10px 20px;
