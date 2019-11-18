@@ -1,0 +1,31 @@
+div.intro {
+   content:url(../intro.png);
+   width: 100%}
+
+div.prop{
+   content:url(../propgation.png);
+ width: 100%}
+
+div.tree{
+   content:url(../trees-and-fruit.png);
+ width: 100%}
+
+div.use {
+   content:url(../Uses.png);
+ width: 100%}
+
+div.source{
+   content:url(../source.png);
+ width: 100%}
+
+ div.notes{
+ 	padding-left: 5%;
+ 	margin-right: 50%;
+ }
+ h2{
+ 	margin:0;
+ 	font-size: 14pt;
+ }
+ body{
+ 	font-family: sans-serif;
+ }
